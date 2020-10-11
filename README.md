@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there
 
-<!--
-**Hippo/hippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a software developer
 
-Here are some ideas to get you started:
+### Languages
+- Java
+- Scala
+- JVM Bytecode
+- C/C++
+- x86_64 Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Reverse Engineering
+- Bytecode Manipulation
+- Gradle / Maven
+- CMake / Makefile
+- Unix
+
+### Contact
+Feel free to contact me via email, Hippah@protonmail.com
+
+![Hippo's github stats](https://github-readme-stats.vercel.app/api?username=Hippo&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
