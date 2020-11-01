@@ -14,6 +14,7 @@
 - Bytecode Manipulation
 - Gradle / Maven
 - CMake / Makefile
+- OpenGL
 - Unix
 
 ### Contact
