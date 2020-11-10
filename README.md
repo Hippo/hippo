@@ -7,6 +7,7 @@
 - Scala
 - JVM Bytecode
 - C/C++
+- Objective C++
 - x86_64 Assembly
 
 ### Skills
@@ -15,6 +16,7 @@
 - Gradle / Maven
 - CMake / Makefile
 - OpenGL
+- Metal
 - Unix
 
 ### Contact
