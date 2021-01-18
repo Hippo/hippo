@@ -13,11 +13,13 @@
 ### Skills
 - Reverse Engineering
 - Bytecode Manipulation
+- Spring
 - Gradle / Maven
 - CMake / Makefile
 - OpenGL
 - Metal
 - Unix
+
 
 ### Contact
 Feel free to contact me via email, Hippah@protonmail.com
