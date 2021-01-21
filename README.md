@@ -20,6 +20,9 @@
 - Metal
 - Unix
 - REST
+- MySQL
+- Redis
+- MongoDB
 
 
 ### Contact
