@@ -7,8 +7,10 @@
 - Scala
 - JVM Bytecode
 - C/C++
+- Dart
 - Objective C++
 - x86_64 Assembly
+- Swift
 
 ### Skills
 - Reverse Engineering
@@ -19,6 +21,7 @@
 - OpenGL
 - Metal
 - Unix
+- Flutter
 - REST
 - MySQL
 - Redis
