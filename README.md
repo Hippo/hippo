@@ -7,10 +7,10 @@
 - Scala
 - JVM Bytecode
 - C/C++
+- Swift
 - Dart
 - Objective C++
 - x86_64 Assembly
-- Swift
 
 ### Skills
 - Reverse Engineering
